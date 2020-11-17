@@ -1,0 +1,14 @@
+
+{
+  "data":{
+        "id":500,
+        "username":"admin",
+        "phone":18262881005,
+        "email":"731796612@qq.com"}
+  
+,
+  "meta":{
+    "msg":"获取管理员列表成功",
+    "status": 200
+  }
+}

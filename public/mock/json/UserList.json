@@ -1,0 +1,31 @@
+{
+  "data":{
+    "pagenum":1,
+    "total":2,
+    "users":[
+      {
+        "id":500,
+        "role_name":"超级管理员",
+        "username":"admin",
+        "create_time":1486720211,
+        "mobie":18262881005,
+        "email":"731796612@qq.com",
+        "type":1,
+        "mg_state":true
+      },{
+        "id":501,
+        "role_name":"测试角色2",
+        "username":"linken",
+        "create_time":1486720211,
+        "mobie":18262881004,
+        "email":"731796611@qq.com",
+        "type":1,
+        "mg_state":false
+      }
+    ]
+  },
+  "meta":{
+    "msg":"获取管理员列表成功",
+    "status": 200
+  }
+}
